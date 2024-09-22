@@ -21,6 +21,19 @@ Raspbian
   sudo apt install -y ffmpeg
 </pre>
 
+# sample codes
+
+tensorflow/tensorflow/lite/examples/python/label_image.py at master · tensorflow/tensorflow
+
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/examples/python/label_image.py
+
+## modified code
+
+<pre>
+  
+</pre>
+
+
 # references
 
 エッジデバイスでTensorFlow Liteをビルドしてインストールする #Python - Qiita
@@ -34,3 +47,8 @@ https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 Linux ベースのデバイスで Python を使用するためのクイックスタートガイド  |  TensorFlow
 
 https://www.tensorflow.org/lite/guide/python?hl=ja
+
+examples/lite at master · tensorflow/examples
+
+https://github.com/tensorflow/examples/tree/master/lite
+
