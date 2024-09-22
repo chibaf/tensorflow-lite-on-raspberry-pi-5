@@ -31,3 +31,6 @@ The Picamera2 Library (PDF)
 
 https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 
+Linux ベースのデバイスで Python を使用するためのクイックスタートガイド  |  TensorFlow
+
+https://www.tensorflow.org/lite/guide/python?hl=ja
