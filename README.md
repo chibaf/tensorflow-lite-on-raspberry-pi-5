@@ -11,8 +11,8 @@ Raspbian
 
 # python3
 <pre>
-  pyserial
-  matplotlib
+  pip3 install pyserial --break-system-packages
+  pip3 install matplotlib --break-system-packages
 </pre>
 
 # installation of tensorflow-lite
@@ -26,3 +26,8 @@ Raspbian
 エッジデバイスでTensorFlow Liteをビルドしてインストールする #Python - Qiita
 
 https://qiita.com/Yokogawa_Ishino/items/a389115da059756e6e4d
+
+The Picamera2 Library (PDF)
+
+https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
+
