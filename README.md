@@ -5,7 +5,7 @@
 Raspberry 5B
 RAM 4GB
 USB-3.0 SSD
-Raspbian
+Raspbian 64bit
 </pre>
 
 # python3
